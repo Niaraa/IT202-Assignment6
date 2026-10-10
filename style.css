@@ -1,0 +1,27 @@
+
+body {
+    background-color: #ffe6f2;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: purple;
+    font-size: 36px;
+    display: none;
+}
+
+p {
+    color: #cc3399;
+    font-size: 20px;
+}
+
+input {
+    background-color: #dda0dd;
+    color: purple;
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid purple;
+    cursor: pointer;
+}
